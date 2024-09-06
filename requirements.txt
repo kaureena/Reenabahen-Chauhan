@@ -1,0 +1,11 @@
+yfinance
+pandas
+numpy
+plotly
+tensorflow
+math
+shap
+sklearn
+time 
+
+
